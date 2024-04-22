@@ -1,0 +1,74 @@
+SOURCE: https://x.com/SasuRobert/status/1779124865246617816
+
+Why #MultiversX ?
+
+When we say we are building/have built the best overall #blockchain , people get suspicious and they rarely read the next lines. In 2018-20, everyone said ElrondNetwork cannot build a sharded chain, as they are not a stellar team. Some stellar teams from back than have left the crypto space. But we delivered.
+
+Now let enumerate a set of existing features, of the protocol only:
+1. Decentralised network. >3200nodes. 2nd after ETH.
+2. Secure. Provably secure, resolve theoretical and practical attack vectors. Acknowledged by auditors and researchers.
+3. No downtime.
+4. No shard takeover attack.
+5. Scaling horizontally through sharding.
+6. Super fast. 30K TPS in current setup.
+7. No wallet drains.
+8. ESDTs - the best token standard out there for Fungible, NonFungible, SemiFungible, DeFi assets, everything. Launch permissionlessly. These are native assets, as powerful as those but customisable.
+9. Best composability. TransferAndExecute + BackTransfers. Every integration of a new contract and asset is easy.
+10. SovereignChain SDK
+11. SpaceVM - the fastest and most secure VM, running on top of WASM, provably fastest and with most OPCODES for builders
+12. Integrated DNS on protocol level, Herotags.
+13. Guardians - on-chain 2FA, a secondary key to protect your funds.
+14. Asynchronous calls.
+15. Cross shard transfers, execution, reverts, calls
+16. Staking system.
+17. Validator system.
+18. Built in Delegation and Staking Provider system. >125K delegators.
+19. Complete support for Liquid Staked assets, making those help decentralisation rather than centralisation.
+20. On-chain governance
+21.  TransferRoles for ESDTs and complex operations.
+22. Composable tasks on-chain.
+23. MultiTransfer and execute of assets.
+24. Re-entrancy protection by design.
+25. More than linear storage for ESDT assets.
+26. No overflows. Integrated safeMath.
+27. Integrated Crypto OPCODES on VM.
+28. BigFloats, BigInts, BigDecimals.
+29. No Sandwich attacks. Front-running and MEV protection.
+30. Relayed Transactions.
+31. Smart Accounts - data tries and multiple built in functions.
+32. Generalised Paymaster Solutions.
+33. Subscriptions. Web2 usability with web3 functionality.
+
+Next in line - Vega Release:
+1. StakingV4 - open markets for validators
+2. MEV protection improvements
+3. ReStaking for SovereignChains
+
+Intermediate release:
+1. ESDT V2 - dynamic ESDTs, best in class assets for games, tickets, dynamically evolving NFTs.
+2. RelayedV3 - gasCost improvements, batching multiple TXs inside one relayed TX, multi user support
+3. SECP256R1 crypto OPCODE - enables SC based Accounts which are controlled through passkeys from phones - complete Web2 experience in Web3.
+4. BLSMultiSigVerifier
+5. SovereignChain enhancements, special OPCODE for cross chain operations, seamless interoperability
+
+Things to come:
+1. Parallel execution - vertical scaling
+2. 100K TPS
+3. 3s blocks and 1s blocks
+4. ConsensusV2 - more time for processing.
+5. Finality improvements - same block finality
+6. Reduction of cross shard processing time to 3s.
+7. ZK everywhere. PI^2. Prove everything.
+8. SovereignChains as interoperability layer. MultiVM setup with double settlements between different ecosystems. Ethereum, Bitcoin, Cosmos, Solana, Polygon and more.
+9. AsyncV3.
+10. Scaling the Merkle Tries or changing to new models.
+11. Linear storage on the VM.
+12. Dynamic Language Interpreter at VM.
+
+Every point from here can be dissected and a lot can be written about it. A lot of features which others are dreaming of, they are already live on mainnet. And much more is developed in order to become the base layer of the Internet.
+
+Explore, ask, create, add value.
+
+#itistimetobuild
+
+p.s. most probably I have forgotten a few things and also this is protocol only. Haven't wrote about the hundreds of things coming for each of the other products.
